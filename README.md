@@ -36,7 +36,7 @@ Currently, the builder supports creating **Message Nodes**, but more node types 
 
 ## 📸 Screenshots
 
-_(You can add screenshots here if available)_
+_(not available)_
 
 ---
 
